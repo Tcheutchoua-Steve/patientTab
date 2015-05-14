@@ -1,0 +1,6 @@
+org/openmrs/module/Hello/api/HelloWorldService.class
+org/openmrs/module/Hello/api/db/hibernate/HibernateHelloWorldDAO.class
+org/openmrs/module/Hello/api/impl/HelloWorldServiceImpl.class
+org/openmrs/module/Hello/HelloWorld.class
+org/openmrs/module/Hello/HelloWorldActivator.class
+org/openmrs/module/Hello/api/db/HelloWorldDAO.class

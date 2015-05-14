@@ -1,0 +1,6 @@
+/root/Documents/Programming/Koegni/Hello/api/src/main/java/org/openmrs/module/Hello/api/db/hibernate/HibernateHelloWorldDAO.java
+/root/Documents/Programming/Koegni/Hello/api/src/main/java/org/openmrs/module/Hello/HelloWorld.java
+/root/Documents/Programming/Koegni/Hello/api/src/main/java/org/openmrs/module/Hello/api/HelloWorldService.java
+/root/Documents/Programming/Koegni/Hello/api/src/main/java/org/openmrs/module/Hello/HelloWorldActivator.java
+/root/Documents/Programming/Koegni/Hello/api/src/main/java/org/openmrs/module/Hello/api/db/HelloWorldDAO.java
+/root/Documents/Programming/Koegni/Hello/api/src/main/java/org/openmrs/module/Hello/api/impl/HelloWorldServiceImpl.java
